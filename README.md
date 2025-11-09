@@ -1,2 +1,9 @@
 # challenge1-data-science
 Primer Challenge de Data Science
+Durante este desafío, ayudarás al Sr. Juan a decidir qué tienda de su cadena Alura Store debe vender para iniciar un nuevo emprendimiento. Para ello, analizarás datos de ventas, rendimiento y reseñas de las 4 tiendas de Alura Store. El objetivo es identificar la tienda menos eficiente y presentar una recomendación final basada en los datos.
+
+1.	Facturación total
+2.	Popularidad de las categorías de productos
+3.	Evaluación promedio de los clientes
+4.	Productos más y menos vendidos
+5.	Costo promedio de envío
